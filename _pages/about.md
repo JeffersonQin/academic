@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science. I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, both ML Systems and ML for systems. I also have experience in distributed systems, formal methods, and computer vision.
+Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science. I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, both ML Systems and ML for Systems. I also have experience in distributed systems, formal methods, and computer vision.
 
 ## News
 
@@ -35,7 +35,7 @@ Chenyuan Wu, Mohammad Javad Amiri, <ins>Haoyun Qin</ins>, Bhavana Mehta, Ryan Ma
 
 * [Dec. 2023 - Present] At PennNetworks, works on **Heterogeneous LLM Serving Project**, working with Prof. [Vincent Liu](https://vincen.tl) and Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 * [Jan. 2024 - Present] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Formal Verification Methods for BGP Network using SMT Solvers and Rewrite Logic**, continuing work from summer 2023
-* [Aug. 2023 - Present] As collaborator and project leader, works on Motion Manga Generation and Creative Sketch Generation, working with Prof. [Chengze Li](https://moeka.me/) @ [SFU, HK](https://www.sfu.edu.hk/en/), and Prof. Hanyuan Liu @ [CityU, HK](https://www.cityu.edu.hk/)
+* [Aug. 2023 - Present] As collaborator and project leader, works on **Motion Manga Generation and Creative Sketch Generation**, working with Prof. [Chengze Li](https://moeka.me/) @ [SFU, HK](https://www.sfu.edu.hk/en/), and Prof. Hanyuan Liu @ [CityU, HK](https://www.cityu.edu.hk/)
 * [May. 2023 - Aug. 2023] Visiting scholar and research assistant at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), worked with Prof. [Haoxian Chen](https://faculty.sist.shanghaitech.edu.cn/hxchen/), Dr. Carolyn Talcott and Prof. [Vivek Nigam](https://nigam.info/), on **BGP Verification**
 * [Nov. 2022 - Jan. 2024] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Adaptive Byzantine Fault Tolerant Protocols with Reinforcement Learning**, worked with Prof. [Ryan Marcus](https://rmarcus.info/blog/) and Prof. [Dahlia Malkhi](https://malkhi.com/)
 
