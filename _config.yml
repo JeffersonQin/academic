@@ -12,7 +12,7 @@ title                    : "Haoyun Qin"
 title_separator          : "-"
 name                     : &name "Haoyun Qin"
 description              : &description "Undergrad"
-url                      : https://gyrojeff.moe/academic/
+url                      : https://gyrojeff.moe/academic
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JeffersonQin/academic"
 
@@ -197,20 +197,20 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+#   publications:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
