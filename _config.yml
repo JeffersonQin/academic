@@ -12,7 +12,7 @@ title                    : "Haoyun Qin"
 title_separator          : "-"
 name                     : &name "Haoyun Qin"
 description              : &description "Undergrad"
-url                      : http://haoyunqin.com
+url                      : https://haoyunqin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JeffersonQin/academic"
 
