@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science. I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, both ML Systems and ML for Systems. I also have experience in distributed systems, formal methods, and computer vision.
+Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science (expected graduation in 3 years, 2025). I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, both ML Systems and ML for Systems. I also have experience in distributed systems, formal methods, and computer vision.
 
 ## News
 
@@ -19,15 +19,15 @@ Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania]
 ### Peer-reviewed Conference / Journal Papers
 
 [![](https://img.shields.io/badge/DAC-2024-blue?style=flat-square)](https://www.dac.com/) **Scalable Virtual Gate Extraction For Silicon Quantum Dot Devices**<br>
-Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, Yuhao Liu, Anthony Sigillito and Gushu Li
+Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.github.io/), Anthony Sigillito and [Gushu Li](https://sites.google.com/view/gushuli)
 
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **Towards Full Stack Adaptivity in Permissioned Blockchains**<br>
-Chenyuan Wu, Mohammad Javad Amiri, <ins>Haoyun Qin</ins>, Bhavana Mehta, Ryan Marcus, Boon Thau Loo
+[Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), <ins>Haoyun Qin</ins>, [Bhavana Mehta](https://www.linkedin.com/in/bmehta5/), [Ryan Marcus](https://rmarcus.info/blog/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 
 ### Preprints / Under Submission
 
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **BFTGym: An Interactive Playground for BFT Protocols**<br>
-<ins>Haoyun Qin</ins>, Chenyuan Wu, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo
+<ins>Haoyun Qin</ins>, [Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Ryan Marcus](https://rmarcus.info/blog/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 
 [![](https://img.shields.io/badge/NSDI-2025-blue?style=flat-square)](https://www.usenix.org/conference/nsdi25) Adaptive BFT full paper 
 
@@ -42,6 +42,41 @@ Chenyuan Wu, Mohammad Javad Amiri, <ins>Haoyun Qin</ins>, Bhavana Mehta, Ryan Ma
 ## Projects
 
 Full list of my projects and opensource contributions can be found on my [Github](https://github.com/JeffersonQin).
+
+### [Jan. 2024] BFTGym: An Interactive Playground for BFT Protocols
+
+<div style="overflow: auto">
+  <div style="float: left; width: 50%;">
+      <p>
+        An interactive platform that allows people to (1) evaluate, compare, and gather insights into the performance of various BFT protocols under a wide range of conditions, and (2) prototype new BFT protocols rapidly.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/coming%20soon-black.svg?logo=github"/>
+      </p>
+  </div>
+  <div style="float: right; width: 45%;">
+      <iframe src="https://www.youtube.com/embed/o5LaGXNiyCo?si=L57Vm1uTsce2AjoC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+### [[Dec. 2023] Dungeon Assistant](https://github.com/JeffersonQin/DungeonAssistant)
+
+<div style="overflow: auto">
+  <div style="float: left; width: 50%;">
+      <p>
+        A Scalable WiFi RSSI based Indoor Localization + LiDAR-based 3D Indoor Reconstruction solution with great operational benefit.
+      </p>
+      <p>
+        <a href="https://github.com/JeffersonQin/DungeonAssistant"><img alt="Click here for Repo" src="https://img.shields.io/github/stars/JeffersonQin/DungeonAssistant?style=social"/></a>
+        <a href="https://huggingface.co/datasets/gyrojeff/DungeonAssistant"><img alt="Click here for Dataset" src="https://img.shields.io/badge/🤗-Dataset-blue.svg"/></a>
+        <a href="https://github.com/JeffersonQin/DungeonAssistant/blob/master/report.pdf"><img alt="Click here for Report" src="https://img.shields.io/badge/pdf-report-blue.svg"/></a>
+      </p>
+  </div>
+  <div style="float: right; width: 45%;">
+      <iframe src="https://www.youtube.com/embed/XT8v7n0ZuOk?si=6VIK2bnJ5fObnwTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
 ### [[Apr. 2023] CNN-based CJK Font Recoginizer](https://github.com/JeffersonQin/YuzuMarker.FontDetection)
 
@@ -61,21 +96,19 @@ Full list of my projects and opensource contributions can be found on my [Github
   </div>
 </div>
 
-### [[Dec. 2023] Dungeon Assistant](https://github.com/JeffersonQin/DungeonAssistant)
+### [[Aug. 2022] Ayase - A Search-based Accessibility Navigation Tool](https://github.com/JeffersonQin/Ayase)
 
 <div style="overflow: auto">
   <div style="float: left; width: 50%;">
       <p>
-        Scalable WiFi RSSI based Indoor Localization + LiDAR-based 3D Indoor Reconstruction Solution with great operational benefit.
+        A cool accessibility tool that can help people navigate on-screen elements using keyboard by text search. Supports applications built from various technologies including Electron, Web, Qt, WPF, UWP, etc.
       </p>
       <p>
-        <a href="https://github.com/JeffersonQin/DungeonAssistant"><img alt="Click here for Repo" src="https://img.shields.io/github/stars/JeffersonQin/DungeonAssistant?style=social"/></a>
-        <a href="https://huggingface.co/datasets/gyrojeff/DungeonAssistant"><img alt="Click here for Dataset" src="https://img.shields.io/badge/🤗-Dataset-blue.svg"/></a>
-        <a href="https://github.com/JeffersonQin/DungeonAssistant/blob/master/report.pdf"><img alt="Click here for Report" src="https://img.shields.io/badge/pdf-report-blue.svg"/></a>
+        <a href="https://github.com/JeffersonQin/Ayase"><img alt="Click here for Repo" src="https://img.shields.io/github/stars/JeffersonQin/Ayase?style=social"/></a>
       </p>
   </div>
   <div style="float: right; width: 45%;">
-      <iframe src="https://www.youtube.com/embed/XT8v7n0ZuOk?si=6VIK2bnJ5fObnwTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <img src="https://raw.githubusercontent.com/JeffersonQin/Ayase/master/imgs/netease-music.gif">
   </div>
 </div>
 
