@@ -1,49 +1,84 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Haoyun Qin 秦浩允"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science. I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, either MLSys or ML for systems. I also have experience in distributed systems, formal methods, and computer vision.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## News
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* [Feb. 2024] Fast Virtual Gate Extraction accepted to [DAC 2024](https://www.dac.com/)
+* [Dec. 2023] [FAB](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=OuneFS8AAAAJ&citation_for_view=OuneFS8AAAAJ:u5HHmVD_uO8C) accepted to [VLDB 2024](https://vldb.org/2024/)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Publications
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Peer-reviewed Conference / Journal Papers
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[![](https://img.shields.io/badge/DAC-2024-blue?style=flat-square)](https://www.dac.com/) **Scalable Virtual Gate Extraction For Silicon Quantum Dot Devices**<br>
+Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, Yuhao Liu, Anthony Sigillito and Gushu Li
 
-**Markdown generator**
+[![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **Towards Full Stack Adaptivity in Permissioned Blockchains**<br>
+Chenyuan Wu, Mohammad Javad Amiri, <ins>Haoyun Qin</ins>, Bhavana Mehta, Ryan Marcus, Boon Thau Loo
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Preprints / Under Submission
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **BFTGym: An Interactive Playground for BFT Protocols**<br>
+<ins>Haoyun Qin</ins>, Chenyuan Wu, Mohammad Javad Amiri, Ryan Marcus, Boon Thau Loo
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[![](https://img.shields.io/badge/NSDI-2025-blue?style=flat-square)](https://www.usenix.org/conference/nsdi25) Adaptive BFT full paper 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Experiences
+
+* [Dec. 2023 - Present] At PennNetworks, works on **Heterogeneous LLM Serving Project**, working with Prof. [Vincent Liu](https://vincen.tl) and Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
+* [Jan. 2024 - Present] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Formal Verification Methods for BGP Network using SMT Solvers and Rewrite Logic**, continuing work from summer 2023
+* [Aug. 2023 - Present] As collaborator and project leader, works on 
+* [May. 2023 - Aug. 2023] Visiting scholar and research assistant at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), worked with Prof. [Haoxian Chen](https://faculty.sist.shanghaitech.edu.cn/hxchen/), Dr. Carolyn Talcott and Prof. [Vivek Nigam](https://nigam.info/), on **BGP Verification**
+* [Nov. 2022 - Jan. 2024] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Adaptive Byzantine Fault Tolerant Protocols with Reinforcement Learning**, worked with Prof. [Ryan Marcus](https://rmarcus.info/blog/) and Prof. [Dahlia Malkhi](https://malkhi.com/)
+
+## Personal Projects
+
+Full list of my projects and opensource contributions can be found on my [Github](https://github.com/JeffersonQin).
+
+<div style="overflow: auto">
+  <div style="float: left; width: 60%;">
+      <h3><a href="https://github.com/JeffersonQin/YuzuMarker.FontDetection">[Apr. 2023] CNN-based CJK Font Recoginizer</a></h3>
+      <p>
+        <i>First-ever</i> CJK (Chinese, Japanese, Korean) font recognizer and style extractor. Support more than 5000 TrueType / OpenFont fonts with 200GB synthesized dataset of various layout and styling.
+      </p>
+      </p>
+        Project opensourced on <a href="https://github.com/JeffersonQin/YuzuMarker.FontDetection">Github</a> and dataset available on <a href="https://huggingface.co/datasets/gyrojeff/YuzuMarker.FontDetection/tree/master">Huggingface</a>. Online demo also available on <a href="https://huggingface.co/spaces/gyrojeff/YuzuMarker.FontDetection"><img alt="Click here for Online Demo" src="https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg"/></a>.
+      </p>
+  </div>
+  <div style="float: right; width: 35%;">
+      <img src="../images/font.png">
+  </div>
+</div>
+
+<div style="overflow: auto">
+  <div style="float: left; width: 60%;">
+      <h3><a href="https://github.com/JeffersonQin/DungeonAssistant">[Dec. 2023] Dungeon Assistant</a></h3>
+      <p>
+        WiFi RSSI based Indoor Localization + LiDAR-based 3D Indoor Reconstruction Solution.
+      </p>
+      <p>
+        Project opensourced on <a href="https://github.com/JeffersonQin/DungeonAssistant">Github</a> and Penn Engineering dataset available on <a href="https://huggingface.co/datasets/gyrojeff/DungeonAssistant">Huggingface</a>. Detailed report available <a href="https://github.com/JeffersonQin/DungeonAssistant/blob/master/report.pdf">here</a>.
+      </p>
+  </div>
+  <div style="float: right; width: 35%;">
+      <iframe src="https://www.youtube.com/embed/XT8v7n0ZuOk?si=6VIK2bnJ5fObnwTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+## Teaching
+
+* CIS 380: Operating System, Spring 2024, TA
+* CIT 595: System Programming, Spring 2024, TA
+* CIS 380: Operating System, Fall 2023, TA
+* CIS 502: Analysis of Algorithms (Graduate version), Fall 2023, TA
+* CIT 595: System Programming, Fall 2023, TA
+* CIS 320: Introduction to Algorithms, Spring 2023, TA
+* CIS 548: Operating System (Graduate version), Spring 2023, TA
