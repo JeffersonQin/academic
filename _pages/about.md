@@ -29,7 +29,7 @@ Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **BFTGym: An Interactive Playground for BFT Protocols**<br>
 <ins>Haoyun Qin</ins>, [Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Ryan Marcus](https://rmarcus.info/blog/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 
-[![](https://img.shields.io/badge/NSDI-2025-blue?style=flat-square)](https://www.usenix.org/conference/nsdi25) Adaptive BFT full paper, second author
+[![](https://img.shields.io/badge/under-submission-orange?style=flat-square)](https://www.usenix.org/conference/nsdi25) Adaptive BFT full paper, second author
 
 ## Experiences
 
@@ -83,7 +83,7 @@ Full list of my projects and opensource contributions can be found on my [Github
 <div style="overflow: auto">
   <div style="float: left; width: 50%;">
       <p>
-        <i>First-ever</i> CJK (Chinese, Japanese, Korean) font recognizer and style extractor. Support more than 5000 TrueType / OpenFont fonts with 200GB synthesized dataset of various layout and styling.
+        <i>First-ever</i> CJK (Chinese, Japanese, Korean) font recognizer and style extractor. Support more than 5000 TrueType / OpenType fonts through 200GB distributedly synthesized dataset of various layout and styling.
       </p>
       <p>
         <a href="https://github.com/JeffersonQin/YuzuMarker.FontDetection"><img alt="Click here for Repo" src="https://img.shields.io/github/stars/JeffersonQin/YuzuMarker.FontDetection?style=social"/></a>
