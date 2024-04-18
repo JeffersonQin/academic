@@ -29,7 +29,8 @@ Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **BFTGym: An Interactive Playground for BFT Protocols**<br>
 <ins>Haoyun Qin</ins>, [Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Ryan Marcus](https://rmarcus.info/blog/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 
-[![](https://img.shields.io/badge/under-submission-orange?style=flat-square)](https://www.usenix.org/conference/nsdi25) Adaptive BFT full paper, second author
+[![](https://img.shields.io/badge/under-submission-orange?style=flat-square)](https://www.usenix.org/conference/nsdi25) **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
+[Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)
 
 ## Experiences
 
@@ -37,7 +38,7 @@ Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.
 * [Jan. 2024 - Present] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Formal Verification Methods for BGP Network using SMT Solvers and Rewrite Logic**, continuing work from summer 2023
 * [Aug. 2023 - Present] As collaborator and project leader, works on **Motion Manga Generation and Creative Sketch Generation**, working with Prof. [Chengze Li](https://moeka.me/) @ [SFU, HK](https://www.sfu.edu.hk/en/), and Prof. Hanyuan Liu @ [CityU, HK](https://www.cityu.edu.hk/)
 * [May. 2023 - Aug. 2023] Visiting scholar and research assistant at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), worked with Prof. [Haoxian Chen](https://faculty.sist.shanghaitech.edu.cn/hxchen/), Dr. Carolyn Talcott and Prof. [Vivek Nigam](https://nigam.info/), on **BGP Verification**
-* [Nov. 2022 - Jan. 2024] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Adaptive Byzantine Fault Tolerant Protocols with Reinforcement Learning**, worked with Prof. [Ryan Marcus](https://rmarcus.info/blog/) and Prof. [Dahlia Malkhi](https://malkhi.com/)
+* [Nov. 2022 - Jan. 2024] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Adaptive Byzantine Fault Tolerant Protocols with Reinforcement Learning**, worked with [Chenyuan Wu](https://chenyuanwu.com/), Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/), Prof. [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), Prof. [Ryan Marcus](https://rmarcus.info/blog/) and Prof. [Dahlia Malkhi](https://malkhi.com/).
 
 ## Projects
 
