@@ -31,7 +31,10 @@ Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **BFTGym: An Interactive Playground for BFT Protocols**<br>
 <ins>Haoyun Qin</ins>, [Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Ryan Marcus](https://rmarcus.info/blog/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 
-[![](https://img.shields.io/badge/under-submission-orange?style=flat-square)](https://www.usenix.org/conference/nsdi25) **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
+[![](https://img.shields.io/badge/OSR-2024-blue?style=flat-square)](https://www.sigops.org/publications/) **Towards Truly Adaptive Byzantine Fault-Tolerant Consensus**<br>
+[Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)
+
+[![](https://img.shields.io/badge/NSDI-2025-blue?style=flat-square)](https://www.usenix.org/conference/nsdi25) **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)
 
 ## Experiences
