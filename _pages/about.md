@@ -1,20 +1,22 @@
 ---
 permalink: /
-title: "Haoyun Qin 秦浩允"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Haoyun, a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science (expected graduation in 3 years, 2025). I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, both **ML Systems** and **ML for Systems**. I also have experience in distributed systems, formal methods, and computer vision.
+## 👋 About Me
 
-## News
+Hi! I am Haoyun Qin (秦浩允), a second year undergrad student at [University of Pennsylvania](https://upenn.edu) majoring in Computer Science (expected graduation in 3 years, 2025). I am fortunate to be advised by Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/) and working at [NetDB@UPenn](https://netdb.cis.upenn.edu/). My research interests lie in the intersection of machine learning and systems, both **ML Systems** and **ML for Systems**. I also have experience in distributed systems, formal methods, and computer vision.
+
+## 🔥 News
 
 * [Feb. 2024] Fast Virtual Gate Extraction accepted to [DAC 2024](https://www.dac.com/)
 * [Dec. 2023] [FAB](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=OuneFS8AAAAJ&citation_for_view=OuneFS8AAAAJ:u5HHmVD_uO8C) accepted to [VLDB 2024](https://vldb.org/2024/)
 
-## Publications
+## 📝 Publications
 
 ### Peer-reviewed Conference / Journal Papers
 
@@ -37,7 +39,7 @@ Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.
 [![](https://img.shields.io/badge/NSDI-2025-blue?style=flat-square)](https://www.usenix.org/conference/nsdi25) **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)
 
-## Experiences
+## 🎓 Experiences
 
 * [Dec. 2023 - Present] At PennNetworks, works on **Heterogeneous LLM Serving Project**, working with Prof. [Vincent Liu](https://vincen.tl) and Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/)
 * [Jan. 2024 - Present] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Formal Verification Methods for BGP Network using SMT Solvers and Rewrite Logic**, continuing work from summer 2023
@@ -45,7 +47,7 @@ Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.
 * [May. 2023 - Aug. 2023] Visiting scholar and research assistant at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), worked with Prof. [Haoxian Chen](https://faculty.sist.shanghaitech.edu.cn/hxchen/), Dr. Carolyn Talcott and Prof. [Vivek Nigam](https://nigam.info/), on **BGP Verification**
 * [Nov. 2022 - Jan. 2024] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), works on **Adaptive Byzantine Fault Tolerant Protocols with Reinforcement Learning**, worked with [Chenyuan Wu](https://chenyuanwu.com/), Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/), Prof. [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), Prof. [Ryan Marcus](https://rmarcus.info/blog/) and Prof. [Dahlia Malkhi](https://malkhi.com/).
 
-## Projects
+## 🚀 Projects
 
 Full list of my projects and opensource contributions can be found on my [Github](https://github.com/JeffersonQin).
 
@@ -118,7 +120,7 @@ Full list of my projects and opensource contributions can be found on my [Github
   </div>
 </div>
 
-## Teaching
+## 📚 Teaching
 
 * CIS 380: Operating System, Spring 2024, TA
 * CIT 595: System Programming, Spring 2024, TA

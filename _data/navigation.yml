@@ -24,19 +24,19 @@
 # main links links
 main:
   - title: "News"
-    url: \#news
+    url: \#-news
 
   - title: "Publications"
-    url: \#publications
+    url: \#-publications
 
   - title: "Experiences"
-    url: \#experiences
+    url: \#-experiences
 
   - title: "Projects"
-    url: \#projects
+    url: \#-projects
 
   - title: "Teaching"
-    url: \#teaching
+    url: \#-teaching
 
   - title: "CV"
     url: /files/cv.pdf
