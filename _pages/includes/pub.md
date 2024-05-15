@@ -3,7 +3,7 @@
 ### Peer-reviewed Conference / Journal Papers
 
 [![](https://img.shields.io/badge/DAC-2024-blue?style=flat-square)](https://www.dac.com/) **Scalable Virtual Gate Extraction For Silicon Quantum Dot Devices**<br>
-Shize Che, Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.github.io/), Anthony Sigillito and [Gushu Li](https://sites.google.com/view/gushuli)<br>
+[Shize Che](https://shizeche.github.io/), Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.github.io/), Anthony Sigillito and [Gushu Li](https://sites.google.com/view/gushuli)<br>
 *Design Automation Conference (DAC'24)*
 
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) **Towards Full Stack Adaptivity in Permissioned Blockchains**<br>
