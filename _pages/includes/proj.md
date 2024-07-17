@@ -10,7 +10,7 @@ Full list of my projects and opensource contributions can be found on my [Github
         An interactive platform that allows people to (1) evaluate, compare, and gather insights into the performance of various BFT protocols under a wide range of conditions, and (2) prototype new BFT protocols rapidly.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/coming%20soon-black.svg?logo=github"/>
+        <a href="https://github.com/JeffersonQin/BFTGym"><img alt="Click here for Repo" src="https://img.shields.io/github/stars/JeffersonQin/BFTGym?style=social"/></a>
       </p>
   </div>
   <div style="float: right; width: 45%;">
