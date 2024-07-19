@@ -1,0 +1,149 @@
+# Plugins to apply to the protocol
+# Check available plugins here: https://github.com/JeffersonQin/BFTBrain/tree/master/code/src/com/gbft/plugin
+plugins:
+  # Role Plugins
+  role: primary
+  # Message Plugins
+  message:
+    - digest
+    - mac
+    - checkpoint
+  # Transition Plugins
+  transition:
+    - checkpoint
+  # Pipeline Plugins
+  pipeline: direct
+
+# Protocol definition
+protocol:
+  # General properties
+  general:
+    # hotstuff 2 use rotate leader
+    leader: rotate
+    # client requests should be sent to primary
+    request-target: primary
+
+  # some roles / messages / states are predefined in Bedrock
+  # Check here: https://github.com/JeffersonQin/BFTBrain/blob/master/code/src/com/gbft/framework/statemachine/StateMachine.java
+
+  # define roles in the system
+  roles:
+    - primary
+    - nodes
+    - client
+
+  # phase definition
+  # each phase is defined by states and messages involved
+  phases:
+    - name: normal
+      states:
+        - idle
+        - wait_prepare
+        - wait_commit_primary
+        - wait_commit_all
+        - wait_decide
+        - executed
+      messages:
+        - name: request
+          request-block: true
+        - name: reply
+          request-block: true
+        - name: prepare
+          request-block: true
+        - commit
+        - decide
+
+    - name: checkpoint
+      messages:
+        - checkpoint
+
+  # define transitions from states to states
+  # check Figure 4 of BFTGym paper for the correspondence
+  # between the message pattern and the code 
+  transitions:
+    from:
+      - role: client
+        state: idle
+        to:
+          - state: executed
+            update: sequence
+            condition:
+              type: message
+              message: reply
+              quorum: f + 1
+
+      - role: primary
+        state: idle
+        to:
+          - state: wait_prepare
+            condition:
+              type: message
+              message: request
+              quorum: 1
+            response:
+              - target: nodes
+                message: prepare
+
+      - role: nodes
+        state: idle
+        to:
+          - state: wait_commit_all
+            condition:
+              type: message
+              message: prepare
+              quorum: 1
+            response:
+              - target: primary
+                message: prepare
+
+      - role: primary
+        state: wait_prepare
+        to:
+          - state: wait_commit_primary
+            condition:
+              type: message
+              message: prepare
+              quorum: 2f + 1
+            response:
+              - target: nodes
+                message: commit
+
+      - role: nodes
+        state: wait_commit_all
+        to:
+          - state: wait_decide
+            condition:
+              type: message
+              message: commit
+              quorum: 1
+            response:
+              - target: primary
+                message: commit
+
+      - role: primary
+        state: wait_commit_primary
+        to:
+          - state: executed
+            update: sequence
+            condition:
+              type: message
+              message: commit
+              quorum: 2f + 1
+            response:
+              - target: nodes
+                message: decide
+              - target: client
+                message: reply
+
+      - role: nodes
+        state: wait_decide
+        to:
+          - state: executed
+            update: sequence
+            condition:
+              type: message
+              message: decide
+              quorum: 1
+            response:
+              - target: client
+                message: reply
