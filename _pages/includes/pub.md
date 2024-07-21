@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Code-black?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/JeffersonQin/BFTGym)
 [![](https://img.shields.io/badge/Demo%20Video-ff0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://youtu.be/o5LaGXNiyCo)
 
-[![](https://img.shields.io/badge/DAC-2024-blue?style=flat-square)](https://www.dac.com/) **Scalable Virtual Gate Extraction For Silicon Quantum Dot Devices**<br>
+[![](https://img.shields.io/badge/DAC-2024-blue?style=flat-square)](https://www.dac.com/) **Fast Virtual Gate Extraction For Silicon Quantum Dot Devices**<br>
 [Shize Che](https://shizeche.github.io/), Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.github.io/), Anthony Sigillito and [Gushu Li](https://sites.google.com/view/gushuli)<br>
 *Design Automation Conference (DAC'24)*
 
