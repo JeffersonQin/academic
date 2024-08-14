@@ -1,6 +1,6 @@
 ## 📝 Publications
 
-### Peer-reviewed Conference / Journal Papers
+### 🔎 Peer-reviewed Conference / Journal Papers
 
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)<br>
@@ -24,7 +24,7 @@
 *50th International Conference on Very Large Databases (VLDB'24)*<br>
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)](https://vldb.org/2024/) [![](https://img.shields.io/badge/Paper-blue?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff)](/files/papers/fab.pdf)
 
-### Preprints / Under Submission
+### 📸 Preprints / Under Submission
 
 **Hyperstroke: A Novel High-quality Stroke Representation for Assistive Artistic Drawing**<br>
 <ins>Haoyun Qin</ins>, Jian Lin, Hanyuan Liu, Xueting Liu, [Chengze Li](https://moeka.me)<br>
