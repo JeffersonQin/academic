@@ -16,6 +16,7 @@
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=)](https://vldb.org/2024/)
 [![](https://img.shields.io/badge/Paper-b30b00?style=&logo=adobeacrobatreader&logoColor=ffffff)](/files/papers/bftgym.pdf)
 [![](https://img.shields.io/badge/Code-black?style=&logo=github&logoColor=ffffff)](https://github.com/JeffersonQin/BFTGym)
+[![](https://img.shields.io/badge/Poster-yellow?style=&logo=adobeacrobatreader)](/files/papers/bftgym-poster.pdf)
 [![](https://img.shields.io/badge/Demo%20Video-ff0000?style=&logo=youtube&logoColor=ffffff)](https://youtu.be/o5LaGXNiyCo)
 
 **Towards Truly Adaptive Byzantine Fault-Tolerant Consensus**<br>
