@@ -2,6 +2,12 @@
 
 ### 🔎 Peer-reviewed Conference / Journal Papers
 
+**Hyperstroke: A Novel High-quality Stroke Representation for Assistive Artistic Drawing**<br>
+<ins>Haoyun Qin</ins>, Jian Lin, Hanyuan Liu, Xueting Liu, [Chengze Li](https://moeka.me)<br>
+[![](https://img.shields.io/badge/SIGGRAPH%20Asia-2024-blue?style=)](https://asia.siggraph.org/2024/)
+[![](https://img.shields.io/badge/arxiv-2408.09348-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2408.09348)
+[![](https://img.shields.io/badge/Paper-b30b00?style=&logo=adobeacrobatreader&logoColor=ffffff)](/files/papers/hyperstroke-arxiv.pdf)
+
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)<br>
 *22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI'25)*<br>
@@ -39,8 +45,4 @@
 
 ### 📸 Preprints / Under Submission
 
-**Hyperstroke: A Novel High-quality Stroke Representation for Assistive Artistic Drawing**<br>
-<ins>Haoyun Qin</ins>, Jian Lin, Hanyuan Liu, Xueting Liu, [Chengze Li](https://moeka.me)<br>
-[![](https://img.shields.io/badge/SIGGRAPH%20Asia-2024-blue?style=)](https://asia.siggraph.org/2024/)
-[![](https://img.shields.io/badge/arxiv-2408.09348-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2408.09348)
-[![](https://img.shields.io/badge/Paper-b30b00?style=&logo=adobeacrobatreader&logoColor=ffffff)](/files/papers/hyperstroke-arxiv.pdf)
+To be updated.

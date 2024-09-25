@@ -1,5 +1,6 @@
 ## 🔥 News
 
+* [Sep. 2024] Hyperstroke accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/) 🎉
 * [Jul. 2024] BFTBrain accepted to [NSDI 2025](https://www.usenix.org/conference/nsdi25) 🎉
 * [May. 2024] BFTGym accepted to [VLDB 2024](https://vldb.org/2024/) 🎉
 * [Feb. 2024] Fast Virtual Gate Extraction accepted to [DAC 2024](https://www.dac.com/) 🎉
