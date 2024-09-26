@@ -36,6 +36,8 @@
 [Shize Che](https://shizeche.github.io/), Seongwoo Oh, <ins>Haoyun Qin</ins>, [Yuhao Liu](https://acasta-yhliu.github.io/), Anthony Sigillito and [Gushu Li](https://sites.google.com/view/gushuli)<br>
 *Design Automation Conference (DAC'24)*<br>
 [![](https://img.shields.io/badge/DAC-2024-blue?style=)](https://www.dac.com/)
+[![](https://img.shields.io/badge/arxiv-2409.15181-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.15181v1)
+[![](https://img.shields.io/badge/Paper-b30b00?style=&logo=adobeacrobatreader&logoColor=ffffff)](/files/papers/fast-quantum-extraction-arxiv.pdf)
 
 **Towards Full Stack Adaptivity in Permissioned Blockchains**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), <ins>Haoyun Qin</ins>, [Bhavana Mehta](https://www.linkedin.com/in/bmehta5/), [Ryan Marcus](https://rmarcus.info/blog/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/)<br>
