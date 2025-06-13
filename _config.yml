@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Haoyun Qin"
 title_separator          : "-"
 name                     : &name "Haoyun Qin"
-description              : &description "Undergrad"
+description              : &description "Research Scientist"
 url                      : https://haoyunqin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JeffersonQin/academic"
@@ -21,11 +21,11 @@ repository               : "JeffersonQin/academic"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : Haoyun Qin
   pronouns         : # example: "she/her"  
-  bio              : Undergrad @ UPenn, NetDB
-  location         : "Philadelphia, Shanghai"
+  bio              : "Research Scientist"
+  location         : "Shanghai, Tokyo"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "qhy@seas.upenn.edu" 
