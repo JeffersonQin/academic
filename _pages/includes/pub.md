@@ -1,6 +1,14 @@
 ## 📝 Publications
 
-### 🔎 Peer-reviewed Conference / Journal Papers
+
+### 📸 Under Submission
+
+**On the Automated Verification of BGP Convergence**<br>
+<ins>Haoyun Qin</ins>\*, Gerald Whitters\*, [Boon Thau Loo](https://boonloo.cis.upenn.edu/), Carolyn Talcott<br>
+*※ [Vivek Nigam](https://nigam.info/) greatly contributed to this work.*<br>
+[![](https://img.shields.io/badge/PPDP-2025-blue?style=)](https://ppdp25.github.io/site/cfp/)
+
+### 🔎 Published
 
 **Hyperstroke: A Novel High-quality Stroke Representation for Assistive Artistic Drawing**<br>
 <ins>Haoyun Qin</ins>, Jian Lin, Hanyuan Liu, Xueting Liu, [Chengze Li](https://moeka.me)<br>
@@ -52,7 +60,3 @@
 [![](https://img.shields.io/badge/VLDB-2024-blue?style=)](https://vldb.org/2024/)
 [![](https://img.shields.io/badge/digital%20library-black?logo=acm&logoColor=ffffff)](https://dl.acm.org/doi/10.14778/3641204.3641216)
 [![](https://img.shields.io/badge/Paper-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/fab.pdf)
-
-### 📸 Preprints / Under Submission
-
-To be updated.
