@@ -10,7 +10,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="" style="height: 50px;">
   <div style="text-align: right;">
-    <b><p>Independent Researcher<br>Aug. 2023 - Present</p></b>
+    <b><p>Independent Researcher<br>Founder, Shitagaki Lab<br>Aug. 2023 - Present</p></b>
   </div>
 </div>
 
