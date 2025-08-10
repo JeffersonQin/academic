@@ -7,10 +7,15 @@ TBD
 
 ### 🔎 Published
 
+**Trajectory-guided Anime Video Synthesis via Effective Motion Learning**<br>
+Jian Lin, [Chengze Li](https://moeka.me), <ins>Haoyun Qin</ins>, Hanyuan Liu, Xueting Liu, Xin Ma, Cunjian Chen, [Tien-Tsin Wong](https://ttwong12.github.io/myself.html)<br>
+[![](https://img.shields.io/badge/PG-2025-blue?style=)](https://pg2025.nccu.edu.tw/)
+
 **On the Automated Verification of BGP Convergence**<br>
 <ins>Haoyun Qin</ins>\*, Gerald Whitters\*, [Boon Thau Loo](https://boonloo.cis.upenn.edu/), Carolyn Talcott<br>
 *※ [Vivek Nigam](https://nigam.info/) greatly contributed to this work.*<br>
 [![](https://img.shields.io/badge/PPDP-2025-blue?style=)](https://ppdp25.github.io/site/cfp/)
+[![](https://img.shields.io/badge/Code-black?style=&logo=github&logoColor=ffffff)](https://github.com/JeffersonQin/ppdp25-bgp)
 
 **Hyperstroke: A Novel High-quality Stroke Representation for Assistive Artistic Drawing**<br>
 <ins>Haoyun Qin</ins>, Jian Lin, Hanyuan Liu, Xueting Liu, [Chengze Li](https://moeka.me)<br>
@@ -22,6 +27,7 @@ TBD
 [![](https://img.shields.io/badge/Supplementary-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/hyperstroke-sup.pdf)
 [![](https://img.shields.io/badge/Paper%20(arxiv)-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/hyperstroke-arxiv.pdf)
 [![](https://img.shields.io/badge/Slides-FBBC04?style=&logo=googleslides&logoColor=ffffff)](/files/papers/hyperstroke-slide.pdf)
+[![](https://img.shields.io/badge/Code-black?style=&logo=github&logoColor=ffffff)](https://github.com/JeffersonQin/Hyperstroke)
 
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)<br>
