@@ -22,13 +22,13 @@ repository               : "JeffersonQin/academic"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : Haoyun Qin
+  name             : Haoyun Qin 秦浩允
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
   location         : "Shanghai, Tokyo"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "qhy@seas.upenn.edu" 
+  email            : "qhy.cis@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
