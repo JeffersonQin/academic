@@ -2,8 +2,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="images/spellbrush.webp" style="height: 50px;">
+  <img src="images/spellbrush-text.png" style="height: 60px;">
   <div style="text-align: right;">
-    <b><p>Research Scientist<br>Spellbrush, Aug. 2025 - Present</p></b>
+    <b><p>Research Scientist<br>Spellbrush<br>Aug. 2025 - Present</p></b>
   </div>
 </div>
 
@@ -23,7 +24,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="images/upenn.png" style="height: 50px;">
   <div style="text-align: right;">
-    <b><p>B.S.E. Computer and Information Science<br>University of Pennsylvania, 2022 - 2025</p></b>
+    <b><p>B.S.E. Computer Science<br>University of Pennsylvania<br>Aug. 2022 - May 2025</p></b>
   </div>
 </div>
 
