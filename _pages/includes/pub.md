@@ -10,11 +10,16 @@ TBD
 **Trajectory-guided Anime Video Synthesis via Effective Motion Learning**<br>
 Jian Lin, [Chengze Li](https://moeka.me), <ins>Haoyun Qin</ins>, Hanyuan Liu, Xueting Liu, Xin Ma, Cunjian Chen, [Tien-Tsin Wong](https://ttwong12.github.io/myself.html)<br>
 [![](https://img.shields.io/badge/PG-2025-blue?style=)](https://pg2025.nccu.edu.tw/)
+[![](https://img.shields.io/badge/digital%20library-black?logo=acm&logoColor=ffffff)](https://diglib.eg.org/items/5ec9bb32-643d-464b-9713-dcf1bfba5b96)
+[![](https://img.shields.io/badge/Website-purple?logo=googlechrome&logoColor=ffffff)](https://animemotiontraj.github.io/)
+[![](https://img.shields.io/badge/Paper-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/pg20251258.pdf)
 
 **On the Automated Verification of BGP Convergence**<br>
 <ins>Haoyun Qin</ins>\*, Gerald Whitters\*, [Boon Thau Loo](https://boonloo.cis.upenn.edu/), Carolyn Talcott<br>
 *※ [Vivek Nigam](https://nigam.info/) greatly contributed to this work.*<br>
 [![](https://img.shields.io/badge/PPDP-2025-blue?style=)](https://ppdp25.github.io/site/cfp/)
+[![](https://img.shields.io/badge/digital%20library-black?logo=acm&logoColor=ffffff)](https://dl.acm.org/doi/10.1145/3756907.3756920)
+[![](https://img.shields.io/badge/Paper-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/bgp.pdf)
 [![](https://img.shields.io/badge/Code-black?style=&logo=github&logoColor=ffffff)](https://github.com/JeffersonQin/ppdp25-bgp)
 
 **Hyperstroke: A Novel High-quality Stroke Representation for Assistive Artistic Drawing**<br>
@@ -28,6 +33,8 @@ Jian Lin, [Chengze Li](https://moeka.me), <ins>Haoyun Qin</ins>, Hanyuan Liu, Xu
 [![](https://img.shields.io/badge/Paper%20(arxiv)-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/hyperstroke-arxiv.pdf)
 [![](https://img.shields.io/badge/Slides-FBBC04?style=&logo=googleslides&logoColor=ffffff)](/files/papers/hyperstroke-slide.pdf)
 [![](https://img.shields.io/badge/Code-black?style=&logo=github&logoColor=ffffff)](https://github.com/JeffersonQin/Hyperstroke)
+[![](https://img.shields.io/badge/🤗-Collection-blue.svg)](https://huggingface.co/collections/gyrojeff/hyperstroke-67ac3a1551c7f3b53f0200a5)
+[![](https://img.shields.io/badge/🤗-Pipeline-blue.svg)](https://huggingface.co/gyrojeff/Hyperstroke-Quickdraw)
 
 **BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**<br>
 [Chenyuan Wu](https://chenyuanwu.com/), <ins>Haoyun Qin</ins>, [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/), [Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Dahlia Malkhi](https://malkhi.com/), [Ryan Marcus](https://rmarcus.info/blog/)<br>
