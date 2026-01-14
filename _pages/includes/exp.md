@@ -1,12 +1,13 @@
 ## 🎓 Experiences
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="images/spellbrush.webp" style="height: 50px;">
-  <img src="images/spellbrush-text.jpg" style="height: 60px;">
+  <img src="images/spellbrush.webp" style="height: 70px;">
   <div style="text-align: right;">
     <b><p>Research Scientist<br>Spellbrush Japan<br>Aug. 2025 - Present</p></b>
   </div>
 </div>
+
+TBD
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="images/shitagakilab-text-logo.png" style="height: 60px;">
