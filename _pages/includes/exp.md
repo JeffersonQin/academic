@@ -3,12 +3,12 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="images/spellbrush.webp" style="height: 50px;">
   <div style="text-align: right;">
-    <b><p>Research Scientist<br>Spellbrush, Aug. 2025 -</p></b>
+    <b><p>Research Scientist<br>Spellbrush, Aug. 2025 - Present</p></b>
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="" style="height: 50px;">
+  <img src="images/shitagakilab-text-logo.png" style="height: 60px;">
   <div style="text-align: right;">
     <b><p>Independent Researcher<br>Founder, Shitagaki Lab<br>Aug. 2023 - Present</p></b>
   </div>
@@ -31,7 +31,7 @@
 
 [Dec. 2023 - Apr. 2024] At PennNetworks, worked on heterogeneous LLM serving project, working with Prof. [Vincent Liu](https://vincen.tl) and Prof. [Boon Thau Loo](https://boonloo.cis.upenn.edu/).
 
-[Jan. 2024 - Present] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), worked on formal verification methods for BGP network using SMT solvers and rewriting logic, continuing work from summer 2023.
+[Jan. 2024 - Jun. 2025] At [NetDB@UPenn](https://netdb.cis.upenn.edu/), worked on formal verification methods for BGP network using SMT solvers and rewriting logic, continuing work from summer 2023.
 
 [May. 2023 - Aug. 2023] Visiting scholar and research assistant at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), worked with Prof. [Haoxian Chen](https://faculty.sist.shanghaitech.edu.cn/hxchen/), Dr. Carolyn Talcott and Prof. [Vivek Nigam](https://nigam.info/), on BGP Verification.
 
