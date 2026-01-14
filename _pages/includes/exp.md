@@ -2,9 +2,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="images/spellbrush.webp" style="height: 50px;">
-  <img src="images/spellbrush-text.png" style="height: 60px;">
+  <img src="images/spellbrush-text.jpg" style="height: 60px;">
   <div style="text-align: right;">
-    <b><p>Research Scientist<br>Spellbrush<br>Aug. 2025 - Present</p></b>
+    <b><p>Research Scientist<br>Spellbrush Japan<br>Aug. 2025 - Present</p></b>
   </div>
 </div>
 
