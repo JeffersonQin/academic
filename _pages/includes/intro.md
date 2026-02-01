@@ -7,3 +7,5 @@ Prior to that, I received my B.S.E. in Computer and Information Science from the
 Currently I do anime / manga / illustration research, both technical and non-technical, in my personal time. You can check out my works on this page, and my reviews on [bangumi](https://bgm.tv/user/gyrojeff). Hope you like them.
 
 I also enjoy taking pictures and riding trains. I will share more information in the future.
+
+[「下書きラボ」を含む日本語コンテンツは、こちらのページをご覧ください](https://shitagaki-lab.com)
