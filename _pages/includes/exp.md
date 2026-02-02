@@ -1,7 +1,7 @@
 ## 🎓 Experiences
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="images/spellbrush.webp" style="height: 70px;">
+  <a href="https://spellbrush.com/"><img src="images/spellbrush.webp" style="height: 70px;"></a>
   <div style="text-align: right;">
     <b><p>Research Scientist<br>Spellbrush Japan<br>Aug. 2025 - Present</p></b>
   </div>
@@ -10,7 +10,7 @@
 TBD
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="images/shitagakilab-text-logo.png" style="height: 60px;">
+  <a href="https://shitagaki-lab.com/"><img src="images/shitagakilab-text-logo.png" style="height: 60px;"></a>
   <div style="text-align: right;">
     <b><p>Independent Researcher<br>Founder, Shitagaki Lab<br>Aug. 2023 - Present</p></b>
   </div>
@@ -23,7 +23,7 @@ TBD
 [Aug. 2023 - Jun. 2025] Worked on controlled anime / motion manga generation, working with Prof. [Chengze Li](https://moeka.me/) @ [HK SFU](https://www.sfu.edu.hk/en/), Jian Lin @ [HK SFU](https://www.sfu.edu.hk/en/), and Dr. Hanyuan Liu @ Spellbrush
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="images/upenn.png" style="height: 50px;">
+  <a href="https://www.upenn.edu/"><img src="images/upenn.png" style="height: 50px;"></a>
   <div style="text-align: right;">
     <b><p>B.S.E. Computer Science<br>University of Pennsylvania<br>Aug. 2022 - May 2025</p></b>
   </div>
