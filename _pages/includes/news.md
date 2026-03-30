@@ -1,5 +1,6 @@
 ## 🔥 News
 
+* [Mar. 2026] 🎉 See-through conditionally accepted to [SIGGRAPH 2026](https://s2026.siggraph.org/)
 * [Jun. 2025] 📢 I will be starting as a Research Scientist at [Spellbrush](https://spellbrush.com) in Tokyo in August 2025
 * [Sep. 2024] 🎉 Hyperstroke accepted to [SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)
 * [Jul. 2024] 🎉 BFTBrain accepted to [NSDI 2025](https://www.usenix.org/conference/nsdi25)

@@ -3,11 +3,21 @@
 
 ### 📸 Under Submission
 
-TBD
+**ConSim: Geo-Replication in Untrusted Environments**<br>
+Eswar Kethireddy, <ins>Haoyun Qin</ins>, [Chenyuan Wu](https://chenyuanwu.com/), [Mohammad Javad Amiri](https://www3.cs.stonybrook.edu/~amiri/)<br>
+[![](https://img.shields.io/badge/VLDB-2026-blue?style=)](https://vldb.org/2026/)
+
+
+**See-through: Single-image Layer Decomposition for Anime Characters**<br>
+*SIGGRAPH 2026*<br>
+Jian Lin, [Chengze Li](https://moeka.me), <ins>Haoyun Qin</ins>, Kwun Wang Chan, [Yanghua Jin](https://aixile.github.io/), Hanyuan Liu, Stephen Chun Wang Choy, Xueting Liu<br>
+[![](https://img.shields.io/badge/SIGGRAPH-2026-blue?style=)](https://s2026.siggraph.org/)
+[![](https://img.shields.io/badge/arxiv-2602.03749-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2602.03749)
 
 ### 🔎 Published
 
 **Trajectory-guided Anime Video Synthesis via Effective Motion Learning**<br>
+*Pacific Graphics 2025*<br>
 Jian Lin, [Chengze Li](https://moeka.me), <ins>Haoyun Qin</ins>, Hanyuan Liu, Xueting Liu, Xin Ma, Cunjian Chen, [Tien-Tsin Wong](https://ttwong12.github.io/myself.html)<br>
 [![](https://img.shields.io/badge/PG-2025-blue?style=)](https://pg2025.nccu.edu.tw/)
 [![](https://img.shields.io/badge/digital%20library-black?logo=acm&logoColor=ffffff)](https://diglib.eg.org/items/5ec9bb32-643d-464b-9713-dcf1bfba5b96)
@@ -17,6 +27,7 @@ Jian Lin, [Chengze Li](https://moeka.me), <ins>Haoyun Qin</ins>, Hanyuan Liu, Xu
 **On the Automated Verification of BGP Convergence**<br>
 <ins>Haoyun Qin</ins>\*, Gerald Whitters\*, [Boon Thau Loo](https://boonloo.cis.upenn.edu/), Carolyn Talcott<br>
 *※ [Vivek Nigam](https://nigam.info/) greatly contributed to this work.*<br>
+*Proceedings of the 27th International Symposium on Principles and Practice of Declarative Programming (PPDP'25)*<br>
 [![](https://img.shields.io/badge/PPDP-2025-blue?style=)](https://ppdp25.github.io/site/cfp/)
 [![](https://img.shields.io/badge/digital%20library-black?logo=acm&logoColor=ffffff)](https://dl.acm.org/doi/10.1145/3756907.3756920)
 [![](https://img.shields.io/badge/Paper-b30b00?style=&logo=googledocs&logoColor=ffffff)](/files/papers/bgp.pdf)
